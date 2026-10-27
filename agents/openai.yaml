@@ -1,0 +1,4 @@
+interface:
+  display_name: "病历助手"
+  short_description: "将查房摘要整理为造血干细胞移植日常病程草稿，并核对日期及事实依据"
+  default_prompt: "使用 $bingli-zhushou，根据所附查房摘要生成日常病程草稿，单列需要核实的信息。"
